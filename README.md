@@ -1,6 +1,6 @@
 # methodsOntology
 Repository for development of the neuroscience methods ontology.
-    
+     
 ## Files
 ### source-materials/
 Source files that are inputs for generating the ttl files.
